@@ -28,11 +28,11 @@ def make_dict(lyrics_file,genreindexrange,authorindex,lyricindex):
     {lyric word: [artist, songname, genre]....} 
     """
     dict = {}
-    counter = 0
+    #counter = 0
     csv_reader = csv.reader(open(lyrics_file))
     for line in csv_reader:
-        print(counter)
-        counter +=1
+        #print(counter)
+        #counter +=1
         lyrics = line[lyricindex]
         genre = line[genreindexrange[0]:genreindexrange[1]]
         author = line[authorindex]
@@ -50,14 +50,35 @@ def make_dict(lyrics_file,genreindexrange,authorindex,lyricindex):
         lyricslist = ""
         lyricslist = cleanup.split()
         for word in lyricslist:
-            w = stemming(word,english_file)
-            dict.setdefault(w,[])
-            dict[w].append(author)
+            word = word.lower()
+            dict.setdefault(word,[])
+            dict[word].append(author)
             for each in genre:
-                dict[w].append(each)
+                dict[word].append(each)
         
     return dict
 
+def stem_dict(unstemmed_dict):
+    """
+    Applies the stemming algorithm to the dictionary
+    """
+    d = {}
+    keyword = ""
+    count = 0
+    print(len(unstemmed_dict))
+    for key in unstemmed_dict.keys():
+        print(count)
+        count += 1
+        keyword = stemming(key,english_file)
+        d.setdefault(keyword,[])
+        d[keyword].append(unstemmed_dict[key])
+        
+    return d
+##        if keyword != key: #Successfully found the word's stem
+##            d.setdefault(keyword,[])
+##            d[keyword].append(unstemmed_dict[key])
+##        else:  #Word is a stem, or not common English
+##            d.setdefault(key)
 def find_word(word):
     """
     Find a given word/term in the iindex
@@ -70,9 +91,9 @@ print(stemming("fought",english_file))
 print(stemming("walked",english_file))
 print(stemming("ran",english_file))
 d = make_dict(lyrics_file,(1,11),18,0)
-
-for item in d:
-    print(item, " : ",d[item])
+e = stem_dict(d)
+for item in e:
+    print(item, " : ",e[item])
 
 
 #x_values = [0,1,2,3,4,5]
