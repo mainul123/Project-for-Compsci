@@ -10,7 +10,7 @@ Working with inverted indexes developed from files.
  - Word Stemming
 ### Test instructions
  - If not already present run: sudo apt-get install python3-matplotlib 
- - OR install matplotlib into your IDE.
+ - OR install matplotlib into your environment.
 
 ### Languages/Formats to be used:
 
