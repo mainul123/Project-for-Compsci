@@ -1,4 +1,4 @@
-lyrics,tags/0,tags/1,tags/2,tags/3,tags/4,tags/5,tags/6,tags/7,tags/8,tags/9,tags/10,pos,year,num_words,num_lines,title,f_k_grade,artist
+lyrics,tags/0,tags/1,tags/2,tags/3,tags/4,tags/5,tags/6,tags/7,tags/8,tags/9,tags/10,pos,year,num_words,num_lines,title,artist
 "Aw, ow!
 
 This hit, that ice cold
@@ -117,7 +117,7 @@ Uptown funk you up (Come on)
 Uptown funk you up (Ah)
 Uptown funk you up (Say what?)
 Uptown funk you up
-Aw, ow!",alternative rock,dance,electropop,english,funk,hip-hop,jazz pop,pop,pop and chart,pop soul,rock,1,2015,591,99,Uptown Funk!,0.5,Mark Ronson
+Aw, ow!",alternative rock,dance,electropop,english,funk,hip-hop,jazz pop,pop,pop and chart,pop soul,rock,1,2015,591,99,Uptown Funk!,Mark Ronson
 "When your legs don't work like they used to before
 And I can't sweep you off of your feet
 Will your mouth still remember the taste of my love
@@ -164,7 +164,7 @@ Oh darling, place your head on my beating heart
 I'm thinking out loud
 That maybe we found love right where we are
 Oh maybe we found love right where we are
-And we found love right where we are",dance-pop,folk pop,guitarist,pop,pop rap,pop soul,rapper,singer,singer/songwriter,uk,,2,2015,316,40,Thinking Out Loud,1.3,Ed Sheeran
+And we found love right where we are",dance-pop,folk pop,guitarist,pop,pop rap,pop soul,rapper,singer,singer/songwriter,uk,,2,2015,316,40,Thinking Out Loud,Ed Sheeran
 "It's been a long day without you my friend
 And I'll tell you all about it when I see you again
 We've come a long way from where we began
@@ -229,7 +229,7 @@ When I see you again
 Oh, oh, ooh
 When I see you again
 Oh, oh, ooh
-When I see you again",hip hop,hip hop rnb and dance hall,pop rap,rap,,,,,,,,3,2015,406,53,See You Again,1.3,Wiz Khalifa
+When I see you again",hip hop,hip hop rnb and dance hall,pop rap,rap,,,,,,,,3,2015,406,53,See You Again,Wiz Khalifa
 "Remy Boyz, yeah
 1738
 
@@ -294,7 +294,7 @@ In love with the money, I ain't never letting go
 I be smoking dope and you know Backwoods what I roll
 Remy Boy, Fetty eating shit up that's fasho
 Ill run in ya house, then I'll fuck your ho
-'Cause Remy Boyz are nuttin', Re-Re-Remy Boyz are nuttin'",contemporary r&b,pop rap,trap rap,,,,,,,,,4,2015,528,56,Trap Queen,0.9,Fetty Wap
+'Cause Remy Boyz are nuttin', Re-Re-Remy Boyz are nuttin'",contemporary r&b,pop rap,trap rap,,,,,,,,,4,2015,528,56,Trap Queen,Fetty Wap
 "I'm hurting, babe, I'm broken down
 I need your loving, loving, I need it now
 When I'm without you, I'm something weak
@@ -362,7 +362,7 @@ Need a little sweetness in my life
 Your sugar, yes please
 Won't you come and put it down on me?
 
-Down on me, ooh, haha",adult contemporary,automod ng,dance,dance-pop,electropop,fixme label mess,funk rock,pop,pop rock,pop/rock,rock,5,2015,447,59,Sugar,1.3,Maroon 5
+Down on me, ooh, haha",adult contemporary,automod ng,dance,dance-pop,electropop,fixme label mess,funk rock,pop,pop rock,pop/rock,rock,5,2015,447,59,Sugar,Maroon 5
 """Oh, don't you dare look back
 Just keep your eyes on me""
 I said, ""You're holding back""
@@ -435,7 +435,7 @@ Shut up and dance with me""
 Ooh hoo
 Shut up and dance with me
 Ooh hoo
-Shut up and dance with me",indie rock,pop rock,,,,,,,,,,6,2015,349,60,Shut Up and Dance,-0.7,Walk The Moon
+Shut up and dance with me",indie rock,pop rock,,,,,,,,,,6,2015,349,60,Shut Up and Dance,Walk The Moon
 "Nice to meet you, where you been?
 I could show you incredible things
 Magic, madness, heaven, sins
@@ -538,7 +538,7 @@ Or with a nasty scar
 Got a long list of ex-lovers
 They'll tell you I'm insane
 But I got a blank space, baby
-And I'll write your name",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,7,2015,502,82,Blank Space,0.9,Taylor Swift
+And I'll write your name",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,7,2015,502,82,Blank Space,Taylor Swift
 "You make it look like it's magic
 'Cause I see nobody, nobody but you, you, you
 I'm never confused
@@ -589,7 +589,7 @@ You're always worth it
 And you deserve it
 The way you work it
 'Cause girl you earned it
-Girl you earned it",pbr&b,r&b,rnb,,,,,,,,,9,2015,258,44,Earned It,1.7,The Weeknd
+Girl you earned it",pbr&b,r&b,rnb,,,,,,,,,9,2015,258,44,Earned It,The Weeknd
 "Your man on the road, he doing promo
 You said keep our business on the low-low
 I'm just tryna get you out the friend-zone
@@ -657,7 +657,7 @@ Yenefikir, fikir, fikir, fikir
 
 Ewedeshalo, ewedeshalo
 Yenefikir, fikir, fikir
-Yenefikir, fikir, fikir, fikir",pbr&b,r&b,rnb,,,,,,,,,10,2015,451,54,The Hills,1.7,The Weeknd
+Yenefikir, fikir, fikir, fikir",pbr&b,r&b,rnb,,,,,,,,,10,2015,451,54,The Hills,The Weeknd
 "And I know she'll be the death of me, at least we'll both be numb
 And she'll always get the best of me, the worst is yet to come
 But at least we'll both be beautiful and stay forever young
@@ -709,7 +709,7 @@ I can't feel my face when I'm with you
 But I love it (when I'm with you), but I love it(when I'm with you), oh
 
 I can't feel my face
-Hey",pbr&b,r&b,rnb,,,,,,,,,12,2015,419,41,Can't Feel My Face,1.3,The Weeknd
+Hey",pbr&b,r&b,rnb,,,,,,,,,12,2015,419,41,Can't Feel My Face,The Weeknd
 "You're the light, you're the night
 You're the color of my blood
 You're the cure, you're the pain
@@ -760,7 +760,7 @@ What are you waiting for?
 Love me like you do, lo-lo-love me like you do
 Love me like you do, lo-lo-love me like you do
 Touch me like you do, to-to-touch me like you do
-What are you waiting for?",a filk artist,chamber pop,drum and bass,electropop,film soundtrack,pop,synthpop,,,,,13,2015,330,42,Love Me Like You Do,2.5,Ellie Goulding
+What are you waiting for?",a filk artist,chamber pop,drum and bass,electropop,film soundtrack,pop,synthpop,,,,,13,2015,330,42,Love Me Like You Do,Ellie Goulding
 "My lover's got humour
 She's the giggle at a funeral
 Knows everybody's disapproval
@@ -842,7 +842,7 @@ Take me to church
 I'll worship like a dog at the shrine of your lies
 I'll tell you my sins and you can sharpen your knife
 Offer me that deathless death
-Good God, let me give you my life",blues,blues rock,chamber pop,indie rock,pop soul,,,,,,,14,2015,429,66,Take Me To Church,0.9,Hozier
+Good God, let me give you my life",blues,blues rock,chamber pop,indie rock,pop soul,,,,,,,14,2015,429,66,Take Me To Church,Hozier
 "'Cause baby, now we got bad blood
 You know it used to be mad love
 So take a look at what you've done
@@ -928,7 +928,7 @@ So take a look at what you've done
 Now we got problems
 And I don't think we can solve 'em
 You made a really deep cut
-And baby, now we got bad blood, hey",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,15,2015,474,70,Bad Blood,-0.3,Taylor Swift
+And baby, now we got bad blood, hey",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,15,2015,474,70,Bad Blood,Taylor Swift
 "Do you recall, not long ago
 We would walk on the sidewalk
 Innocent, remember?
@@ -981,7 +981,7 @@ All we need is somebody to lean on
 Blow a kiss, fire a gun
 We need someone to lean on
 Blow a kiss, fire a gun
-All we need is somebody to lean on",art pop,dancehall,downtempo,dub,electro,electronic,electropop,moombahcore,moombahton,pop rap,pop reggae,16,2015,278,42,Lean On,-0.3,Major Lazer
+All we need is somebody to lean on",art pop,dancehall,downtempo,dub,electro,electronic,electropop,moombahcore,moombahton,pop rap,pop reggae,16,2015,278,42,Lean On,Major Lazer
 "(Derulo...)
 
 It's too hard to sleep
@@ -1041,7 +1041,7 @@ There's nothing I know I wouldn't do, I wouldn't do
 Just to get up next you (I would do anything)
 Just to get up next you (Anything and everything)
 Just to get up next to you
-Just to get up next to you",contemporary r&b,dance,dance-pop,electropop,pop,r&b,,,,,,17,2015,390,49,Want To Want Me,-1.1,Jason Derulo
+Just to get up next to you",contemporary r&b,dance,dance-pop,electropop,pop,r&b,,,,,,17,2015,390,49,Want To Want Me,Jason Derulo
 "I stay out too late
 Got nothin' in my brain
 That's what people say, mmh-hmm
@@ -1128,7 +1128,7 @@ I, I, I shake it off, I shake it off (whoo)
 I shake it off, I shake it off
 I, I, I shake it off, I shake it off (you got to)
 I, I, I shake it off, I shake it off
-I, I, I shake it off, I shake it off (whoo)",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,18,2015,564,70,Shake It Off,1.7,Taylor Swift
+I, I, I shake it off, I shake it off (whoo)",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,18,2015,564,70,Shake It Off,Taylor Swift
 "Like a small boat
 In the ocean
 Sending big waves
@@ -1197,7 +1197,7 @@ I'll play my fight song
 And I don't really care if nobody else believes
 'Cause I've still got a lot of fight left in me
 
-Now I've still got a lot of fight left in me",pop,,,,,,,,,,,20,2015,332,56,Fight Song,0.5,Rachel Platten
+Now I've still got a lot of fight left in me",pop,,,,,,,,,,,20,2015,332,56,Fight Song,Rachel Platten
 "Fetty Wap
 Yeah baby, 1738
 Ay, ay, look
@@ -1289,7 +1289,7 @@ Ay, yeah baby
 ZooWap, Monty
 ZooWap, Dicey
 Yeah baby, Remy Boyz
-Yeah, yeah",contemporary r&b,pop rap,trap rap,,,,,,,,,21,2015,492,70,679,1.3,Fetty Wap
+Yeah, yeah",contemporary r&b,pop rap,trap rap,,,,,,,,,21,2015,492,70,679,Fetty Wap
 "If your lips are moving, If your lips are moving
 If your lips are moving, then you're lyin', lyin', lyin', baby
 If your lips are moving, If your lips are moving
@@ -1360,7 +1360,7 @@ I gave you bass, You gave me sweet talk
 Saying how I'm your number one
 But I know you lie
 'Cause your lips are moving
-Baby don't you know I'm done",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,22,2015,447,60,Lips Are Movin,1.3,Meghan Trainor
+Baby don't you know I'm done",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,22,2015,447,60,Lips Are Movin,Meghan Trainor
 "Give it to me, I'm worth it
 Baby, I'm worth it
 Uh huh, I'm worth it
@@ -1455,7 +1455,7 @@ Baby, I'm worth it
 Uh huh, I'm worth it
 Gimme, gimme, I'm worth it
 
-Give it to me, I'm worth it",contemporary r&b,dance-pop,electropop,latin pop,pop rap,synthpop,,,,,,23,2015,607,79,Worth It,0.1,Fifth Harmony
+Give it to me, I'm worth it",contemporary r&b,dance-pop,electropop,latin pop,pop rap,synthpop,,,,,,23,2015,607,79,Worth It,Fifth Harmony
 "If your chick come close to me
 She ain't going home when she post to be
 I'm getting money like I'm post to be
@@ -1540,7 +1540,7 @@ She 'bout to ride with me
 And I don't even know her name
 But I know that she your girl
 She chose up, are you mad, or nah? (Bruh!)
-Bruh don't be mad about it, these chicks be for everybody",soul and reggae,,,,,,,,,,,24,2015,611,78,Post To Be,0.1,Omarion
+Bruh don't be mad about it, these chicks be for everybody",soul and reggae,,,,,,,,,,,24,2015,611,78,Post To Be,Omarion
 "Nah nah honey, I’m good
 I could have another but I probably should not
 I’ve got somebody at home
@@ -1607,7 +1607,7 @@ True ooo, ooo
 (I will stay true)
 (I will stay true)
 (I will stay true)
-Sing it now oh whoa oh",dance-pop,pop,,,,,,,,,,25,2015,417,59,"Honey, I'm Good.",1.3,Andy Grammer
+Sing it now oh whoa oh",dance-pop,pop,,,,,,,,,,25,2015,417,59,"Honey, I'm Good.",Andy Grammer
 "You and me, we made a vow
 For better or for worse
 I can't believe you let me down
@@ -1651,7 +1651,7 @@ I know I'm not the only one
 I know I'm not the only one
 And I know, and I know, and I know,
 And I know, and I know, and I don't know
-I know I'm not the only one",alternative r&b,blue-eyed soul,pop,pop soul,synth funk,,,,,,,26,2015,244,37,I'm Not The Only One,0.9,Sam Smith
+I know I'm not the only one",alternative r&b,blue-eyed soul,pop,pop soul,synth funk,,,,,,,26,2015,244,37,I'm Not The Only One,Sam Smith
 "Selena
 I'm in my 14 carats, I'm 14 carat
 Doing it up like Midas, mmm
@@ -1715,7 +1715,7 @@ Let me show you how proud I am to be yours
 Leave this dress a mess on the floor
 And still look good for you, good for you, uh-huh, uh-huh, uh
 Uh-huh, uh-huh
-Trust me, I, trust me, I, trust me, I",alternative r&b,brostep,contemporary r&b,dance-pop,electro house,electro-disco,electropop,pop,rock,teen pop,,27,2015,470,52,Good For You,0.9,Selena Gomez
+Trust me, I, trust me, I, trust me, I",alternative r&b,brostep,contemporary r&b,dance-pop,electro house,electro-disco,electropop,pop,rock,teen pop,,27,2015,470,52,Good For You,Selena Gomez
 "Because you know I'm all about that bass, 'bout that bass, no treble
 I'm all about that bass, 'bout that bass, no treble
 I'm all about that bass, 'bout that bass, no treble
@@ -1769,7 +1769,7 @@ I'm all about that bass, 'bout that bass
 
 'Bout that bass, 'bout that bass, hey hey
 Hey, hey, ooh
-You know you like this bass",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,28,2015,440,44,All About That Bass,1.3,Meghan Trainor
+You know you like this bass",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,28,2015,440,44,All About That Bass,Meghan Trainor
 "Midnight
 You come and pick me up, no headlights
 Long drive
@@ -1829,7 +1829,7 @@ Oh, you got that James Dean daydream look in your eye
 And I got that red lip classic thing that you like
 And when we go crashing down, we come back every time
 'Cause we never go out of style
-We never go out of style",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,29,2015,377,47,Style,1.7,Taylor Swift
+We never go out of style",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,29,2015,377,47,Style,Taylor Swift
 "(Be my woman girl and I'll be your man)
 (Be my woman girl and I'll be your man)
 
@@ -1910,7 +1910,7 @@ I wanna hear you calling my name
 Like, ""Hey mama, mama, hey mama, mama""
 
 (Be my woman girl and I'll be your man)
-(Be my woman girl and I'll be your man)",dance,dance and electronica,dance-pop,electro house,electronic,electropop,eurodance,french house,house,progressive house,seen live,31,2015,513,61,Hey Mama,1.7,David Guetta
+(Be my woman girl and I'll be your man)",dance,dance and electronica,dance-pop,electro house,electronic,electropop,eurodance,french house,house,progressive house,seen live,31,2015,513,61,Hey Mama,David Guetta
 "I know what you came here to see
 If you're a freak, then ya coming home with me
 And I know what you came here to do
@@ -1978,7 +1978,7 @@ It's going down for real
 It's going down for real
 It's going down for real
 It's going down for real
-It's going down for real",a filk artist,dance-pop,electro,electropop,hip hop,hip hop rnb and dance hall,hip house,pop rap,southern hip hop,,,32,2015,379,62,G.D.F.R.,0.9,Flo Rida
+It's going down for real",a filk artist,dance-pop,electro,electropop,hip hop,hip hop rnb and dance hall,hip house,pop rap,southern hip hop,,,32,2015,379,62,G.D.F.R.,Flo Rida
 "What do you mean? Oh
 When you nod your head yes
 But you wanna say no
@@ -2053,7 +2053,7 @@ Oh, what do you mean?
 Said you're running out of time, what do you mean?
 Oh, what do you mean?
 Better make up your mind
-What do you mean?",amazing,black metal,christmas music,contemporary r&b,dance-pop,electropop,gay,pop,teen pop,tropical house,,33,2015,403,64,What Do You Mean?,-0.3,Justin Bieber
+What do you mean?",amazing,black metal,christmas music,contemporary r&b,dance-pop,electropop,gay,pop,teen pop,tropical house,,33,2015,403,64,What Do You Mean?,Justin Bieber
 "Loving can hurt, loving can hurt sometimes
 But it's the only thing that I know
 When it gets hard, you know it can get hard sometimes
@@ -2106,7 +2106,7 @@ And I won’t ever let you go
 When I'm away, I will remember how you kissed me
 Under the lamppost back on Sixth street
 Hearing you whisper through the phone
-Wait for me to come home",dance-pop,folk pop,guitarist,pop,pop rap,pop soul,rapper,singer,singer/songwriter,uk,,34,2015,318,46,Photograph,2.1,Ed Sheeran
+Wait for me to come home",dance-pop,folk pop,guitarist,pop,pop rap,pop soul,rapper,singer,singer/songwriter,uk,,34,2015,318,46,Photograph,Ed Sheeran
 "I thought that I'd been hurt before
 But no one's ever left me quite this sore
 Your words cut deeper than a knife
@@ -2181,7 +2181,7 @@ I'm without your kisses
 I'll be needing stitches
 (And now that)
 I'm without your kisses
-I'll be needing stitches",folk pop,piano rock,pop,pop rock,pop soul,teen pop,,,,,,36,2015,368,59,Stitches,0.9,Shawn Mendes
+I'll be needing stitches",folk pop,piano rock,pop,pop rock,pop soul,teen pop,,,,,,36,2015,368,59,Stitches,Shawn Mendes
 "Best stay in bed
 The feeling of your skin locked in my head
 Smoke, smoke me broke
@@ -2272,7 +2272,7 @@ So put it on me
 Swear it won't take you long
 If you love me right
 We fuck for life
-On and on and on",electropop,female vocals,indie pop,pop,top 40,,,,,,,37,2015,407,74,Talking Body,-0.7,Tove Lo
+On and on and on",electropop,female vocals,indie pop,pop,top 40,,,,,,,37,2015,407,74,Talking Body,Tove Lo
 "Ne-Yo
 I knew my rent was gon' be late about a week ago
 I worked my ass off, but I still can't pay it though
@@ -2369,7 +2369,7 @@ Hey, let's get it now
 Ooh... I want the time of my life
 Oh baby
 Ooh... give me the time of my life
-Let's get it now",dance-pop,electro house,electropop,eurodance,global warming meltdown,hip house,hiphop,latin pop,maltido,pitbull,pop rap,39,2015,638,76,Time Of Our Lives,1.7,Pitbull
+Let's get it now",dance-pop,electro house,electropop,eurodance,global warming meltdown,hip house,hiphop,latin pop,maltido,pitbull,pop rap,39,2015,638,76,Time Of Our Lives,Pitbull
 "Comm'on
 Natalie La Rose
 
@@ -2425,7 +2425,7 @@ And you know just what I wanna do
 I wanna rock with somebody (whoah yeah)
 I wanna take shot with somebody (shot, shot, shot, shot)
 I wanna leave with somebody (somebody, comm'on, comm'on)
-And we ain't gonna tell nobody, we ain't gonna tell nobody (nobody)",contemporary r&b,,,,,,,,,,,41,2015,423,45,Somebody,3.3,Natalie La Rose
+And we ain't gonna tell nobody, we ain't gonna tell nobody (nobody)",contemporary r&b,,,,,,,,,,,41,2015,423,45,Somebody,Natalie La Rose
 "(Doo doo doo doo doo doo doo doo)
 (Doo doo doo doo doo doo doo doo doo)
 
@@ -2492,7 +2492,7 @@ We'll go down in history, remember me for centuries
 
 Hey ya, oh hey
 We'll go down in history
-Remember me for centuries",acoustic rock,alternative rock,emo-pop,hardcore punk,pop and chart,pop punk,pop rock,post-emo,rock,,,43,2015,418,53,Centuries,1.3,Fall Out Boy
+Remember me for centuries",acoustic rock,alternative rock,emo-pop,hardcore punk,pop and chart,pop punk,pop rock,post-emo,rock,,,43,2015,418,53,Centuries,Fall Out Boy
 "Baby, won't you come my way?
 Got something I want to say
 Cannot keep you out my brain
@@ -2540,7 +2540,7 @@ And I'm swervin' all in traffic while I'm trapping out the mansion
 And I'm moving through the tri-state
 Do two-hundred on the highway
 And I'm swerving in my i8, baby, you should come my way
-Squad!",contemporary r&b,pop rap,trap rap,,,,,,,,,44,2015,421,43,My Way,0.9,Fetty Wap
+Squad!",contemporary r&b,pop rap,trap rap,,,,,,,,,44,2015,421,43,My Way,Fetty Wap
 "Baby, I'm preying on you tonight
 Hunt you down, eat you alive
 Just like animals
@@ -2656,7 +2656,7 @@ Yeah, yeah, yeah
 No girl don't lie, lie lie lie
 You can't deny, -ny -ny -ny
 The beast inside, -side -side -side
-Yeah, yeah, yeah",adult contemporary,automod ng,dance,dance-pop,electropop,fixme label mess,funk rock,pop,pop rock,pop/rock,rock,46,2015,466,78,Animals,0.5,Maroon 5
+Yeah, yeah, yeah",adult contemporary,automod ng,dance,dance-pop,electropop,fixme label mess,funk rock,pop,pop rock,pop/rock,rock,46,2015,466,78,Animals,Maroon 5
 "Big Sean
 I don't fuck with you
 You little stupid ass bitch, I ain't fuckin' with you
@@ -2753,7 +2753,7 @@ Yeah I know that karma's too real so I hope you doin' cool
 But still stupid ass bitch I ain't fuckin' with you
 Little stupid ass I ain't fuckin with
 I ain't fuckin', I ain't I ain't fuckin' with you
-I ain't fuckin' with you",pop rap,,,,,,,,,,,47,2015,876,90,I Don't F**k With You,2.1,Big Sean
+I ain't fuckin' with you",pop rap,,,,,,,,,,,47,2015,876,90,I Don't F**k With You,Big Sean
 "Aye, oh, there it is, there it is, there it is
 There it is, there it is (Rich Homie, baby!)
 
@@ -2816,7 +2816,7 @@ And now she screamin' like oh, ooh, ooh
 (How much, how much you made) a $100,000
 (How much, how much you made)
 Made some million dollars of a mixtape and I fuck like ooohhh
-Aye, get at me",hip hop,,,,,,,,,,,49,2015,520,59,Flex,0.5,Rich Homie Quan
+Aye, get at me",hip hop,,,,,,,,,,,49,2015,520,59,Flex,Rich Homie Quan
 "Nicki Minaj
 Yo, I never fucked Wayne, I never fucked Drake
 On my life man, fuck's sake
@@ -2944,7 +2944,7 @@ Oh, if you lame and you know it be quiet
 Nothing but real niggas only, bad bitches only
 Rich niggas only, independent bitches only
 Boss niggas only, thick bitches only
-I got my real niggas here by my side, only",a filk artist,hip-hop,pop,rap,,,,,,,,51,2015,879,107,Only,1.7,Nicki Minaj
+I got my real niggas here by my side, only",a filk artist,hip-hop,pop,rap,,,,,,,,51,2015,879,107,Only,Nicki Minaj
 "And another one bites the dust
 Oh, why can I not conquer love?
 And I might have thought that we were one
@@ -3002,7 +3002,7 @@ I may snap and I move fast
 But you won't see me fall apart
 'Cause I've got an elastic heart
 
-I've got an elastic heart",australian,chamber pop,dance-pop,downtempo,electropop,indie pop,mbs-333,pop,pop and chart,,,52,2015,337,47,Elastic Heart,1.3,Sia
+I've got an elastic heart",australian,chamber pop,dance-pop,downtempo,electropop,indie pop,mbs-333,pop,pop and chart,,,52,2015,337,47,Elastic Heart,Sia
 "Tell me what you want, what you like
 It's okay
 I'm a little curious too
@@ -3084,7 +3084,7 @@ We're cool for the summer
 We're cool for the summer
 (Ha)
 Ooh
-We're cool for the summer",pop,,,,,,,,,,,53,2015,340,59,Cool For The Summer,0.5,Demi Lovato
+We're cool for the summer",pop,,,,,,,,,,,53,2015,340,59,Cool For The Summer,Demi Lovato
 "Run away-ay with me
 Lost souls in revelry
 Running wild and running free
@@ -3127,7 +3127,7 @@ Living like we're renegades
 Hey hey hey
 Hey hey hey
 Leaving like we're renegades
-Renegades, renegades",alternative rock,,,,,,,,,,,54,2015,144,33,Renegades,2.5,X Ambassadors
+Renegades, renegades",alternative rock,,,,,,,,,,,54,2015,144,33,Renegades,X Ambassadors
 "Yeah
 Usher, baby
 This is for the A
@@ -3210,7 +3210,7 @@ Your money, money, money
 And get that money, money, money
 Your money, money, money
 You can take off your clothes
-Long as you coming home, girl, I don’t mind",hip hop rnb and dance hall,,,,,,,,,,,55,2015,660,74,I Don't Mind,1.7,Usher
+Long as you coming home, girl, I don’t mind",hip hop rnb and dance hall,,,,,,,,,,,55,2015,660,74,I Don't Mind,Usher
 "Ariana Grande:
 Tell me something I need to know,
 Then take my breath and never let it go...
@@ -3274,7 +3274,7 @@ You gotta, gotta, gotta, gotta, got to love me harder...
 (Hoo, hoo, hoo, hoo...) Love me, love me, love me... 
 (Hoo, hoo, hoo, hoo...) Harder, harder, harder...
 (Oh, baby, love me, love me, baby,) (Hoo, hoo, hoo, hoo...) Love me, love me, love me...
-(Just a little bit harder, harder, baby...) (Hoo, hoo, hoo, hoo...) Harder, harder, harder...",contemporary r&b,dance-pop,electro house,electropop,pop,r&b,,,,,,56,2015,437,62,Love Me Harder,2.5,Ariana Grande
+(Just a little bit harder, harder, baby...) (Hoo, hoo, hoo, hoo...) Harder, harder, harder...",contemporary r&b,dance-pop,electro house,electropop,pop,r&b,,,,,,56,2015,437,62,Love Me Harder,Ariana Grande
 "He said, ""Let's get out of this town""
 Drive out of the city, away from the crowds""
 I thought heaven can't help me now
@@ -3348,7 +3348,7 @@ In your wildest dreams...
 
 (Even if just real in your)
 Wildest dreams...
-In your wildest dreams...",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,57,2015,333,58,Wildest Dreams,0.5,Taylor Swift
+In your wildest dreams...",contemporary country,country,country pop,country-pop,dance-pop,electropop,female vocals,fixme label mess,pop,pop rock,singer/songwriter,57,2015,333,58,Wildest Dreams,Taylor Swift
 "Guess it's true, I'm not good at a one-night stand
 But I still need love 'cause I'm just a man
 These nights never seem to go to plan
@@ -3377,7 +3377,7 @@ But darling, stay with me
 Oh, won't you stay with me?
 'Cause you're all I need
 This ain't love it's clear to see
-But darling, stay with me",alternative r&b,blue-eyed soul,pop,pop soul,synth funk,,,,,,,58,2015,164,24,Stay With Me,-0.3,Sam Smith
+But darling, stay with me",alternative r&b,blue-eyed soul,pop,pop soul,synth funk,,,,,,,58,2015,164,24,Stay With Me,Sam Smith
 "Some people want me to be heads or tails
 I say no way, try again, another day
 I should be happy, not tipping the scales
@@ -3418,7 +3418,7 @@ What you want, what you gonna do?
 You know you like it but it drives you insane
 Follow me cause you know that you wanna feel the same
 You know you like it but it drives you insane
-What you want, what you gonna do?",alternative r&b,contemporary r&b,electropop,moombahton,trap,,,,,,,59,2015,298,36,You Know You Like It,1.7,DJ Snake
+What you want, what you gonna do?",alternative r&b,contemporary r&b,electropop,moombahton,trap,,,,,,,59,2015,298,36,You Know You Like It,DJ Snake
 "I can move mountains
 I can work a miracle, work a miracle
 Oh, oh, I'll keep you like an oath
@@ -3476,7 +3476,7 @@ May nothing but death do us part
 I can move mountains
 I can work a miracle, work a miracle
 Oh, oh, I'll keep you like an oath
-May nothing but death do us part",acoustic rock,alternative rock,emo-pop,hardcore punk,pop and chart,pop punk,pop rock,post-emo,rock,,,60,2015,326,48,Uma Thurman,0.9,Fall Out Boy
+May nothing but death do us part",acoustic rock,alternative rock,emo-pop,hardcore punk,pop and chart,pop punk,pop rock,post-emo,rock,,,60,2015,326,48,Uma Thurman,Fall Out Boy
 "(What the heart wants...)
 (The heart wants...)
 (What the heart wants...)
@@ -3546,7 +3546,7 @@ It wants what it wants
 It wants what it wants
 
 The heart wants what it wants baby
-It wants what it wants baby...",alternative r&b,brostep,contemporary r&b,dance-pop,electro house,electro-disco,electropop,pop,rock,teen pop,,62,2015,399,61,The Heart Wants What It Wants,0.9,Selena Gomez
+It wants what it wants baby...",alternative r&b,brostep,contemporary r&b,dance-pop,electro house,electro-disco,electropop,pop,rock,teen pop,,62,2015,399,61,The Heart Wants What It Wants,Selena Gomez
 "I've got a girl crush
 Hate to admit it but,
 I got a hard rush
@@ -3588,7 +3588,7 @@ I've got a girl crush
 I've got a girl crush
 Hate to admit it but
 I got a hard rush,
-It's not slowing down.",country,,,,,,,,,,,63,2015,201,39,Girl Crush,-0.7,Little Big Town
+It's not slowing down.",country,,,,,,,,,,,63,2015,201,39,Girl Crush,Little Big Town
 "I know you got all dressed up for the club
 Waiting on a nigga to come pick you up
 Baby, when I saw ya walking out the door
@@ -3631,7 +3631,7 @@ Slow motion
 We can take, we can take, we can take our time, baby
 In slow motion
 We can take, we can take, we can take our time, stay here
-In slow motion",hip hop,hip hop rnb and dance hall,r&b,,,,,,,,,64,2015,261,32,Slow Motion,1.7,Trey Songz
+In slow motion",hip hop,hip hop rnb and dance hall,r&b,,,,,,,,,64,2015,261,32,Slow Motion,Trey Songz
 "I've got fire for a heart
 I'm not scared of the dark
 You've never seen it look so easy
@@ -3699,7 +3699,7 @@ Nobody can drag me down
 Nobody, nobody
 Nobody can drag me down
 Nobody, nobody
-Nobody can drag me down",boy band,dance-pop,folk pop,pop,pop rock,power pop,,,,,,65,2015,363,48,Drag Me Down,1.3,One Direction
+Nobody can drag me down",boy band,dance-pop,folk pop,pop,pop rock,power pop,,,,,,65,2015,363,48,Drag Me Down,One Direction
 "Drake
 Uh, thinkin' out loud
 I must have a quarter million on me right now
@@ -3763,7 +3763,7 @@ I'm so heartless, thoughtless, lawless and flawless
 Smallest regardless, largest in charge and born in New Orleans
 Get killed for Jordans
 Skateboard, I'm gnarly; Drake, Tunechi and Barbie
-You know",a filk artist,hip-hop,pop,rap,,,,,,,,66,2015,497,62,Truffle Butter,1.7,Nicki Minaj
+You know",a filk artist,hip-hop,pop,rap,,,,,,,,66,2015,497,62,Truffle Butter,Nicki Minaj
 "I was a liar, I gave into the fire;
 I know I should've fought it - at least I'm being honest...
 Feel like a failure, 'cause I know that I failed you;
@@ -3802,7 +3802,7 @@ Baby, I don't care if you got her in your heart;
 All I really care is you wake up in my arms... (Wake up in my arms...)
 One last time, I need to be the one who takes you home...
 
-One last time, I need to be the one who takes you home...",contemporary r&b,dance-pop,electro house,electropop,pop,r&b,,,,,,67,2015,411,34,One Last Time,3.3,Ariana Grande
+One last time, I need to be the one who takes you home...",contemporary r&b,dance-pop,electro house,electropop,pop,r&b,,,,,,67,2015,411,34,One Last Time,Ariana Grande
 "Chris Brown
 Baby, is you drunk cause you had enough?
 Are you here lookin' for love? Ohh
@@ -3881,7 +3881,7 @@ Meek Mill (Nicki Minaj)
 She was the baddest (He was the realest)
 We was the flyest (We was the illest)
 I was the realest (I was the baddest)
-We was the flyest, up in the buildin'",meek mill,,,,,,,,,,,69,2015,542,77,All Eyes On You,0.1,Meek Mill
+We was the flyest, up in the buildin'",meek mill,,,,,,,,,,,69,2015,542,77,All Eyes On You,Meek Mill
 "Both
 Yah
 Bad bitches is the... (Yah)
@@ -3947,7 +3947,7 @@ And Let my momma tell it nigga I ain't living right (Yup)
 
 I ain't got no type
 I ain't got no type
-And Let my momma tell it nigga I ain't living right",hip hop,,,,,,,,,,,70,2015,454,56,No Type,0.5,Rae Sremmurd
+And Let my momma tell it nigga I ain't living right",hip hop,,,,,,,,,,,70,2015,454,56,No Type,Rae Sremmurd
 "I was scared of dentists and the dark
 I was scared of pretty girls and starting conversations
 Oh, all my friends are turning green
@@ -4006,7 +4006,7 @@ I love you when you're singing that song and
 I got a lump in my throat 'cause
 You're gonna sing the words wrong, yeah
 I got a lump in my throat 'cause
-You're gonna sing the words wrong",alternative rock,indie folk,indie pop,,,,,,,,,71,2015,363,48,Riptide,1.3,Vance Joy
+You're gonna sing the words wrong",alternative rock,indie folk,indie pop,,,,,,,,,71,2015,363,48,Riptide,Vance Joy
 "Dear future husband,
 Here's a few things
 You'll need to know if you wanna be
@@ -4079,7 +4079,7 @@ Dear future husband,
 If you wanna get that special loving
 Tell me I'm beautiful each and every night
 
-Future husband, better love me right",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,74,2015,360,59,Dear Future Husband,2.1,Meghan Trainor
+Future husband, better love me right",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,74,2015,360,59,Dear Future Husband,Meghan Trainor
 "Let's Marvin Gaye and get it on 
 You got the healing that I want 
 Just like they say it in the song 
@@ -4138,7 +4138,7 @@ Until the dawn
 Let's Marvin Gaye and get it on 
 Just like they say it in the song
 Until the dawn
-Let's Marvin Gaye and get it on, ooh",pop,pop soul,,,,,,,,,,75,2015,322,50,Marvin Gaye,-0.3,Charlie Puth
+Let's Marvin Gaye and get it on, ooh",pop,pop soul,,,,,,,,,,75,2015,322,50,Marvin Gaye,Charlie Puth
 "I found myself dreaming of
 Silver and gold
 Like a scene from a movie
@@ -4200,7 +4200,7 @@ So I'm gonna love you like I'm gonna lose you
 I'm gonna love you like I'm gonna lose you
 
 Yeah, yeah
-Like I'm gonna lose you",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,76,2015,315,46,Like I'm Gonna Lose You,2.1,Meghan Trainor
+Like I'm gonna lose you",a filk artist,blue-eyed soul,dance-pop,doo-wop,female vocals,great songs,pop,pop rap,pop soul,top 40,,76,2015,315,46,Like I'm Gonna Lose You,Meghan Trainor
 "I eat my dinner in my bathtub, then I go to sex clubs
 Watching freaky people getting it on
 It doesn't make me nervous, if anything, I'm restless
@@ -4236,7 +4236,7 @@ High all the time to keep you off my mind, ooh-ooh, ooh-ooh
 Spend my days locked in a haze, trying to forget you babe, I fall back down
 Gotta stay high all my life to forget I'm missing you, ooh-ooh, ooh-ooh
 
-*In the radio version, the word ""sex"" is replaced with ""sick"".",electropop,female vocals,indie pop,pop,top 40,,,,,,,77,2015,337,30,Habits,2.9,Tove Lo
+*In the radio version, the word ""sex"" is replaced with ""sick"".",electropop,female vocals,indie pop,pop,top 40,,,,,,,77,2015,337,30,Habits,Tove Lo
 "Katniss Everdeen
 
 Are you, are you
@@ -4304,7 +4304,7 @@ For his love to flee
 Strange things did happen here
 No stranger would it be
 If we met at midnight
-In the hanging tree.",american,classical,film composer,score,soundtrack,,,,,,,78,2015,273,58,The Hanging Tree,0.1,James Newton Howard
+In the hanging tree.",american,classical,film composer,score,soundtrack,,,,,,,78,2015,273,58,The Hanging Tree,James Newton Howard
 "Yes I do, I believe
 That one day I will be, where I was
 Right there, right next to you
@@ -4335,7 +4335,7 @@ And I don't want to be here if I can't be with you tonight
 Lay me down tonight, lay me by your side
 Lay me down tonight, lay me by your side
 Can I lay by your side, next to you, you
-And make sure you're alright",alternative r&b,blue-eyed soul,pop,pop soul,synth funk,,,,,,,81,2015,213,27,Lay Me Down,0.1,Sam Smith
+And make sure you're alright",alternative r&b,blue-eyed soul,pop,pop soul,synth funk,,,,,,,81,2015,213,27,Lay Me Down,Sam Smith
 "Kick the dust up.
 Come on.
 
@@ -4399,7 +4399,7 @@ Kick the dust up (kick the dust up)
 Back it on up
 Fill your cup up,
 That's what's up up,
-Let's kick the dust up",country,,,,,,,,,,,87,2015,338,53,Kick The Dust Up,-0.3,Luke Bryan
+Let's kick the dust up",country,,,,,,,,,,,87,2015,338,53,Kick The Dust Up,Luke Bryan
 "Look, I feel blessed
 Way up I feel blessed, way up I feel blessed
 Straight up
@@ -4501,7 +4501,7 @@ Just did a couple laps in my home pool
 And my daughter right there gettin' homeschooled
 I'm blessed, and I was thinkin' 'bout startin' up my own school
 A montessori, and the hallway lookin' like a monastery
-Oh yes I'm way up, I feel blessed",pop rap,,,,,,,,,,,88,2015,882,94,Blessings,2.1,Big Sean
+Oh yes I'm way up, I feel blessed",pop rap,,,,,,,,,,,88,2015,882,94,Blessings,Big Sean
 "My house in Budapest
 My hidden treasure chest
 Golden grand piano
@@ -4586,7 +4586,7 @@ I'd leave it all
 
 Oh for you
 You
-I'd leave it all",blues,folk,rock,,,,,,,,,89,2015,272,53,Budapest,0.5,George Ezra
+I'd leave it all",blues,folk,rock,,,,,,,,,89,2015,272,53,Budapest,George Ezra
 "Party girls don't get hurt
 Can't feel anything, when will I learn?
 I push it down, I push it down
@@ -4642,7 +4642,7 @@ Keep my glass full until morning light
 Oh, I'm just holding on for tonight, on for tonight, on for tonight
 'Cause I'm just holding on for tonight
 'Cause I'm just holding on for tonight
-Oh, I'm just holding on for tonight, on for tonight, on for tonight",australian,chamber pop,dance-pop,downtempo,electropop,indie pop,mbs-333,pop,pop and chart,,,90,2015,378,46,Chandelier,1.7,Sia
+Oh, I'm just holding on for tonight, on for tonight, on for tonight",australian,chamber pop,dance-pop,downtempo,electropop,indie pop,mbs-333,pop,pop and chart,,,90,2015,378,46,Chandelier,Sia
 "This is my heartbeat song and I'm gonna play it
 Been so long, I forgot how to turn it
 Up up up up all night long
@@ -4712,7 +4712,7 @@ Oh, up up all night long
 This is my heartbeat song and I'm gonna play it
 Turned it on but I know you can take it
 Up up up up all night long
-Oh, up up all night long",a filk artist,american idol,dance-pop,electropop,fixme label mess,pop,pop and chart,pop rock,rock,teen pop,,91,2015,433,56,Heartbeat Song,0.1,Kelly Clarkson
+Oh, up up all night long",a filk artist,american idol,dance-pop,electropop,fixme label mess,pop,pop and chart,pop rock,rock,teen pop,,91,2015,433,56,Heartbeat Song,Kelly Clarkson
 "I met this girl late last year
 She said ""Don't you worry if I disappear""
 I told her ""I'm not really looking for another mistake""
@@ -4794,7 +4794,7 @@ I don't wanna know that, babe
 Don't fuck with my love
 I told her she knows
 Take aim and reload
-I don't wanna know that, babe",dance-pop,folk pop,guitarist,pop,pop rap,pop soul,rapper,singer,singer/songwriter,uk,,92,2015,594,77,Don't,1.3,Ed Sheeran
+I don't wanna know that, babe",dance-pop,folk pop,guitarist,pop,pop rap,pop soul,rapper,singer,singer/songwriter,uk,,92,2015,594,77,Don't,Ed Sheeran
 "I keep going to the river to pray
 'Cause I need something that can wash off the pain
 And at most I'm sleeping all these demons away
@@ -4860,7 +4860,7 @@ But your ghost, the ghost of you, it keeps me awake
 I keep going to the river to pray
 'Cause I need something that can wash off the pain
 And at most I'm sleeping all these demons away
-But your ghost, the ghost of you, it keeps me awake",contemporary r&b,dance-pop,pop,pop rock,pop soul,,,,,,,93,2015,435,53,Ghost,1.7,Ella Henderson
+But your ghost, the ghost of you, it keeps me awake",contemporary r&b,dance-pop,pop,pop rock,pop soul,,,,,,,93,2015,435,53,Ghost,Ella Henderson
 "(I guess right now you've got the last laugh)
 
 I'm sorry if I seem uninterested
@@ -4916,7 +4916,7 @@ Yo I'll be over here
 Oh oh oh here, oh oh oh here
 Oh oh oh I asked myself, what am I doin' here?
 Oh oh oh here, oh oh oh here
-And I can't wait 'til we can break up out of here (oh oh, oh oh)",contemporary r&b,electropop,,,,,,,,,,94,2015,469,51,Here,2.1,Alessia Cara
+And I can't wait 'til we can break up out of here (oh oh, oh oh)",contemporary r&b,electropop,,,,,,,,,,94,2015,469,51,Here,Alessia Cara
 "My face above the water
 My feet can't touch the ground
 Touch the ground, and it feels like
@@ -4941,7 +4941,7 @@ Wave after wave, wave after wave
 I'm slowly drifting (drifting away)
 And it feels like I'm drowning
 Pulling against the stream
-Pulling against the stream",ballad,contemporary r&b,deep house,hip hop,pop,pop rap,,,,,,95,2015,126,22,Waves,1.7,Mr. Probz
+Pulling against the stream",ballad,contemporary r&b,deep house,hip hop,pop,pop rap,,,,,,95,2015,126,22,Waves,Mr. Probz
 "You know from the moment she turned around
 She knows how to back it up and drop it down
 She knows, she wants all the fellas looking at her
@@ -4981,7 +4981,7 @@ Hypnotizing all the dudes
 She knows
 She knows
 I know, I know, she knows
-And I know, I know, she knows",dance,hip hop,hip hop rnb and dance hall,,,,,,,,,97,2015,193,26,She Knows,0.1,Ne-Yo
+And I know, I know, she knows",dance,hip hop,hip hop rnb and dance hall,,,,,,,,,97,2015,193,26,She Knows,Ne-Yo
 "Going out tonight
 Changes into something red
 Her mother doesn't like that kind of dress
@@ -5044,7 +5044,7 @@ Even when the night changes
 It will never change, baby
 It will never change, baby
 It will never change
-Me and you",boy band,dance-pop,folk pop,pop,pop rock,power pop,,,,,,98,2015,296,52,Night Changes,2.9,One Direction
+Me and you",boy band,dance-pop,folk pop,pop,pop rock,power pop,,,,,,98,2015,296,52,Night Changes,One Direction
 "I want you to breathe me in
 Let me be your air
 Let me roam your body freely
@@ -5103,4 +5103,4 @@ So tell me how deep is your love could be go deeper
 So tell me how deep is your love could go deep
 (How deep is your love?)
 So tell me how deep is your love could be go deeper
-So tell me how deep is your love could go deep",complextro,contemporary r&b,dance,dance and electronica,dance-pop,disco,electro house,electro-disco,electronic,electropop,hip house,100,2015,340,52,How Deep Is Your Love,-0.3,Calvin Harris
+So tell me how deep is your love could go deep",complextro,contemporary r&b,dance,dance and electronica,dance-pop,disco,electro house,electro-disco,electronic,electropop,hip house,100,2015,340,52,How Deep Is Your Love,Calvin Harris
