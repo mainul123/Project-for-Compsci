@@ -90,10 +90,38 @@ print(stemming("made",english_file))
 print(stemming("fought",english_file))
 print(stemming("walked",english_file))
 print(stemming("ran",english_file))
-d = make_dict(lyrics_file,(1,11),18,0)
-e = stem_dict(d)
-for item in e:
-    print(item, " : ",e[item])
+d = make_dict(lyrics_file,(1,11),17,0) 
+iindex = stem_dict(d)
+for item in iindex:
+    print(item, " : ",iindex[item])
+    
+    
+    
+#The purpose of the graph is to show the number of times a author associated with that “genre” uses “word” how many times 
+    
+def values_for_graph(iindex,authorindex,word):
+    x_vals = [] #authors
+    y_vals = [] #wordcount per author
+    csv_reader = csv.reader(open(lyrics_file))
+    for line in csv_reader:
+        authorname = line[authorindex]
+        if authorname not in x_vals:
+            x_vals.append(authorname)
+    wordcount = 0
+    for author in x_vals:
+        if word in iindex.keys() and author in iindex[word]:
+            wordcount = len(iindex[word])
+     
+    
+    print(x_vals)
+    print(wordcount)
+    
+values_for_graph(iindex,17,"make")
+    
+    
+    
+    
+
 
 
 #x_values = [0,1,2,3,4,5]

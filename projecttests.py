@@ -1,5 +1,6 @@
 import csv
 import matplotlib.pyplot as plt
+import numpy as np
 
 english_file = "english.csv"  #Insert the name for the CSV to be used for the stemming process
 lyrics_file = "finaldata.csv"   #Insert the name for the CSV to be used for the lyrics data
