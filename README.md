@@ -12,7 +12,7 @@ Working with inverted indexes developed from files.
   - If not already present run: sudo apt-get install python3-matplotlib 
   OR install matplotlib into your environment.
   - The main packages used are: numpy 1.13.3,  matplotlib 2.1.1
-  - A majority of testing was performed in Thonny, with the required package installed.
+  - A majority of testing was performed in Thonny, with the matplotlib package installed. No problems in Thonny were noted.
   - THE FILE TO BE RUN IS TITLED 'projecttests.py'.
   - The file also uses the following csv's: english.csv, finaldata.csv
   
@@ -22,7 +22,8 @@ Working with inverted indexes developed from files.
   - When reaching the last step, the program will as for user input in the form of a single word.
   - This word will be the one used in the formation of the graph, using the iindex as information.
   - In addition, the artists and the occurrences will be printed just before the graph is generated, in case something goes
-  wrong with the matplot library. 
+  wrong with the matplot library.
+  - If the graph does open, it will likely be fairly small and the words may be squished together. Expanding the window will resolve this.
   
 ### Languages/Formats to be used:
 

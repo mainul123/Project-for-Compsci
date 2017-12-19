@@ -121,6 +121,7 @@ def values_for_graph(iindex,authorindex,word):
     #print(x_vals)
     #print(y_vals)
     print("Done!")
+    
     plt.scatter(x_vals, y_vals, s = 5)
     titlestring = "Frequency of the word '" + word + "' vs. Author"
     plt.title(titlestring)    
