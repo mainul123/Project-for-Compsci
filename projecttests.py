@@ -30,6 +30,7 @@ def make_dict(lyrics_file,genreindexrange,authorindex,lyricindex):
     """
     dict = {}
     #counter = 0
+    print("Generating iindex dictionary...")
     csv_reader = csv.reader(open(lyrics_file))
     for line in csv_reader:
         #print(counter)
@@ -56,7 +57,7 @@ def make_dict(lyrics_file,genreindexrange,authorindex,lyricindex):
             dict[word].append(author)
             for each in genre:
                 dict[word].append(each)
-        
+    print("Done!")
     return dict
 
 def stem_dict(unstemmed_dict):
@@ -64,16 +65,19 @@ def stem_dict(unstemmed_dict):
     Applies the stemming algorithm to the dictionary
     """
     d = {}
+    print("Stemming the dictionary...")
     keyword = ""
-    count = 0
-    print(len(unstemmed_dict))
+    #count = 0
+    #print(len(unstemmed_dict))
     for key in unstemmed_dict.keys():
-        print(count)
-        count += 1
+        #print(count)
+        #count += 1
         keyword = stemming(key,english_file)
         d.setdefault(keyword,[])
         d[keyword].append(unstemmed_dict[key])
-        
+        #if(key == 'shake'):
+            #print(keyword, ": ", d[keyword])
+    print("Done!")
     return d
 ##        if keyword != key: #Successfully found the word's stem
 ##            d.setdefault(keyword,[])
@@ -87,23 +91,15 @@ def find_word(word):
     """
     pass
 
-print(stemming("made",english_file))
-print(stemming("fought",english_file))
-print(stemming("walked",english_file))
-print(stemming("ran",english_file))
-d = make_dict(lyrics_file,(1,11),17,0) 
-iindex = stem_dict(d)
-for item in iindex:
-    print(item, " : ",iindex[item])
-    
-    
-    
 #The purpose of the graph is to show the number of times a author associated with that “genre” uses “word” how many times 
     
 def values_for_graph(iindex,authorindex,word):
     x_vals = [] #authors
     y_vals = [] #wordcount per author
+    word = stemming(word,english_file)
+    
     csv_reader = csv.reader(open(lyrics_file))
+    print("Generating graph...")
     for line in csv_reader:
         authorname = line[authorindex]
         if authorname not in x_vals:
@@ -113,38 +109,40 @@ def values_for_graph(iindex,authorindex,word):
         wordcount = 0
         if word in iindex.keys():
                 for l in iindex[word]:
-                    if author in l:
-                        wordcount += 1
+                    #print(l.count('Taylor Swift'))
+                    wordcount += l.count(author)
         y_vals.append(wordcount)
          
- 
+    i = 0
+    while i < len(x_vals):
+        print(x_vals[i], " : ",y_vals[i])
+        i+=1
     
     #print(x_vals)
     #print(y_vals)
+    print("Done!")
     plt.scatter(x_vals, y_vals, s = 5)
-    titlestring = "Frequency of the word " + word + " vs. Author"
+    titlestring = "Frequency of the word '" + word + "' vs. Author"
     plt.title(titlestring)    
     plt.xlabel("Authors",fontsize = 18)
     plt.ylabel("Frequency of word", fontsize = 18)
     plt.xticks(rotation=90)
     plt.show()
-    
-    
-values_for_graph(iindex,17,"happy")
 
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-
+#print(stemming("made",english_file))
+#print(stemming("fought",english_file))
+#print(stemming("walked",english_file))
+#print(stemming("ran",english_file))
+d = make_dict(lyrics_file,(1,11),17,0)
+#for item in d:
+#    print(item, ":",d[item])
+iindex = stem_dict(d)
+#print(iindex)
+#for item in iindex:
+#    print(item, " : ",iindex[item])
+inputword = input("Input a word, and a graph showing the number of occurences and the artists that used it will be made:  ")
+inputword = inputword.lower()
+values_for_graph(iindex,17,inputword)
 
 
 #x_values = [0,1,2,3,4,5]
