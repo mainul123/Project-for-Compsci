@@ -5,7 +5,7 @@ Final Project for Compsci 127, by Mainul Nishan and Myles Austin
 Working with inverted indexes developed from files. 
 
 ### Intended Extension(s):
- - Using a graph library to provide visualizations
+ - Using a graph library to provide visualizations of data
  - Storing and utilizing word information (i.e., position, occurrences)
  - Word Stemming
 ### Test instructions/information
@@ -13,6 +13,8 @@ Working with inverted indexes developed from files.
   OR install matplotlib into your environment.
   - The main packages used are: numpy 1.13.3,  matplotlib 2.1.1
   - A majority of testing was performed in Thonny, with the matplotlib package installed. No problems in Thonny were noted.
+  - We recommend running the program through Thonny to produce the
+    results we visualized without any errors.
   - THE FILE TO BE RUN IS TITLED 'projecttests.py'.
   - The file also uses the following csv's: english.csv, finaldata.csv
   
@@ -32,5 +34,5 @@ Working with inverted indexes developed from files.
 
 ### Project Description
 
-In this project, we aim to use the designs and techniques we have learned already regarding inverted indices, and expand upon them. We aim to add several features to the functions, including a stemming algorithm, graphs, and word information storage. It is in the realm of possibility that we might add supplementary features, such as formatting in Flask or the deciphering of other file types.
+In this project, we aim to use the designs and techniques we have learned already regarding inverted indices, and expand upon them. We aim to add several features to the functions, including a stemming algorithm, graphs, and word information storage.
 
