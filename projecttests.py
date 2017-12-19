@@ -91,7 +91,8 @@ def find_word(word):
     """
     pass
 
-#The purpose of the graph is to show the number of times a author associated with that “genre” uses “word” how many times 
+#The purpose of the graph is to show the number of times a author uses “word” how many times
+#by using Billboard's Top 100 songs in 2015.
     
 def values_for_graph(iindex,authorindex,word):
     x_vals = [] #authors
@@ -145,7 +146,8 @@ inputword = input("Input a word, and a graph showing the number of occurences an
 inputword = inputword.lower()
 values_for_graph(iindex,17,inputword)
 
-
+#This model showed us how the matplot library worked in python. After that it was pretty easy to format
+#it to our needs. Other than formatting, the graphing process went well. 
 #x_values = [0,1,2,3,4,5]
 #squares = [0,1,4,9,16,25]
 #plt.plot(x_values,squares)
