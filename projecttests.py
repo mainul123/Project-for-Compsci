@@ -129,7 +129,7 @@ def values_for_graph(iindex,authorindex,word):
     plt.show()
     
     
-values_for_graph(iindex,17,"make")
+values_for_graph(iindex,17,"happy")
 
 
 
